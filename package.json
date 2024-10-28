@@ -1,0 +1,15 @@
+{
+  "name": "feb24-t4w1-mongodb-install",
+  "version": "1.0.0",
+  "description": "Testing and installing MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.7.3"
+  }
+}
